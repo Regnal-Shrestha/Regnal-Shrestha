@@ -1,16 +1,51 @@
 ## Hi there 👋
+1. Introduction 
+Name: Regnal Shrestha
+Title: Full-Stack Web Developer
 
-<!--
-**Regnal-Shrestha/Regnal-Shrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building scalable, user-focused web applications with clean design and efficient code.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. About Me
+Brief introduction:
+Background in full-stack web development
+Interest in building intuitive, user-centered digital experiences
+Focus on combining design and development
+Career goals:
+Seeking opportunities in full-stack or front-end development
+Interested in working on scalable products and real-world applications
+
+4. Skills & Technologies
+   
+Frontend:
+HTML, CSS, JavaScript
+Responsive Design
+UI/UX Principles
+
+Backend:
+APIs / Data handling
+
+Tools:
+Git & GitHub
+VS Code
+Figma / design tools
+
+6. Featured Projects
+
+1. Honeyberry Hill Farms Website
+Description: Responsive farm website promoting a booking experience
+Tech: HTML, CSS, JavaScript
+Link: https://regnal-shrestha.github.io/finalProjectGIT418/
+
+2. Fibber Magees Pub Website
+Description: Restaurant website with strong branding and navigation
+Tech: HTML, CSS, JavaScript
+Link: https://regnal-shrestha.github.io/finalProjectGIT480/
+
+3. MuzakMaker Streaming Platform
+Description: Streaming media interface for playlist browsing
+Tech: HTML, CSS, JavaScript
+Link: https://regnal-shrestha.github.io/Streamingmedia/#yourplaylists
+
+
+
