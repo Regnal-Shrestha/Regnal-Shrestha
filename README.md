@@ -32,6 +32,7 @@ Figma / design tools
 
 6. Featured Projects
 
+
 1. Honeyberry Hill Farms Website
 Description: Responsive farm website promoting a booking experience
 Tech: HTML, CSS, JavaScript
@@ -46,6 +47,7 @@ Link: https://regnal-shrestha.github.io/finalProjectGIT480/
 Description: Streaming media interface for playlist browsing
 Tech: HTML, CSS, JavaScript
 Link: https://regnal-shrestha.github.io/Streamingmedia/#yourplaylists
+
 
 
 
