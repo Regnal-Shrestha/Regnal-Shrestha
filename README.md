@@ -30,20 +30,20 @@ Git & GitHub
 VS Code
 Figma / design tools
 
-6. Featured Projects
+5. Featured Projects
 
 
-1. Honeyberry Hill Farms Website
+Honeyberry Hill Farms Website
 Description: Responsive farm website promoting a booking experience
 Tech: HTML, CSS, JavaScript
 Link: https://regnal-shrestha.github.io/finalProjectGIT418/
 
-2. Fibber Magees Pub Website
+Fibber Magees Pub Website
 Description: Restaurant website with strong branding and navigation
 Tech: HTML, CSS, JavaScript
 Link: https://regnal-shrestha.github.io/finalProjectGIT480/
 
-3. MuzakMaker Streaming Platform
+MuzakMaker Streaming Platform
 Description: Streaming media interface for playlist browsing
 Tech: HTML, CSS, JavaScript
 Link: https://regnal-shrestha.github.io/Streamingmedia/#yourplaylists
