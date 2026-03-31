@@ -1,6 +1,7 @@
 ## Hi there 👋
-Introduction 
+ 
 Name: Regnal Shrestha
+Contact: rshrest8@asu.edu
 
 Title: Full-Stack Web Developer
 
